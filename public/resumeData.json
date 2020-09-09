@@ -15,8 +15,8 @@
       "country": "India",
       "zip": "282005"
     },
-    "website": "",
-    "resumedownload": "",
+    "website": "https://mayanksahai.in",
+    "resumedownload": "https://drive.google.com/file/d/1YMxnF6UZfPwrssaneU6AbDrwHpfwtbHD/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
@@ -41,7 +41,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":  "Skilled in all phases of software development life cycle and strong ability in translating business requirements into technical solutions.",
     "education": [
       {
         "school": "Jaypee Institute of Information Technology, Noida",
@@ -98,46 +98,34 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Tinder Clone with React",
+        "category": "Tinder Clone built with ReactJS",
+        "image": "tinder.jpg",
+        "url": "https://github.com/mayank-sahai/tinder-clone"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Amazon Clone with React (In Progress)",
+        "category": "In Progress",
+        "image": "amazon.png",
+        "url": ""
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "CrowdFunding DAPP (In Progress)",
+        "category": "DAPP using  with React, smart contracts written using solidity deployed over Ethereum Blockchain",
+        "image": "soon.jpg",
+        "url": "https://github.com/mayank-sahai/crowd-funding"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Mayank is one of the person whom I trust as he takes the ownership of the work and make sure it is completed in the given time.",
+        "user": "Sumit Mittal (Project Manager - Newgen Software)"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "He completes all his task with proper practices and in the given time. He creates this energetic enviornment in the team and keep the zeal up eveytime.",
+        "user": "You! My next Employer"
       }
     ]
   }
