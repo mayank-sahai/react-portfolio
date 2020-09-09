@@ -1,4 +1,4 @@
-# Clever Programmer ReactJS Portfolio Template      
+# My ReactJS Portfolio Template
 
 ## 👇 WATCH THIS FIRST 👇
 ## https://tinyurl.com/customizeReactPortfolio
@@ -30,7 +30,7 @@ Here is the link to download zip 👉
 ## Credits
 
 #### All Credits Goes to Tim Baker <a href='https://github.com/tbakerx/react-resume-template'>Original Repo</a>
-
+#### And Clever Programmer <a href='https://github.com/CleverProgrammers/react-portfolio'>Shared Repo</a>
 
 
 HTML Design Template
